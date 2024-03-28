@@ -1,0 +1,4 @@
+﻿  NewTest.cpp
+C:\Users\kralm\source\repos\3D-GRID_BASED_MAP_PROJECT\3D-GRID_BASED_MAP_PROJECT\NewTest.cpp(13,40): warning C4316: 'Transform' : yığın üzerinde ayrılan nesne 16 hizalanmış olmayabilir
+NewTest.obj : error LNK2019: çözümlenmemiş dış sembol "public: __thiscall PointCloudGenerator::PointCloudGenerator(void)" (??0PointCloudGenerator@@QAE@XZ) için "public: __thiscall DepthCamera::DepthCamera(void)" (??0DepthCamera@@QAE@XZ) işlevinde başvuruldu
+C:\Users\kralm\source\repos\3D-GRID_BASED_MAP_PROJECT\Debug\3D-GRID_BASED_MAP_PROJECT.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
